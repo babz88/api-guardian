@@ -20,7 +20,7 @@ It detects common API vulnerabilities including:
 
 ## Installation
 
-git clone https://github.com/yourusername/api-guardian.git
+git clone https://github.com/babz88/api-guardian.git
 
 cd api-guardian
 
